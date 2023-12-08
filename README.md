@@ -22,7 +22,8 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com)[<img height="75" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/Facebook.png">](https://www.facebook.com)[<img height="75" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com)
+[<p align="center"><img height="75" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com)[<img height="75" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/Facebook.png">](https://www.facebook.com)
+
 
 <br />
 
