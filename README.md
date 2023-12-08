@@ -11,7 +11,7 @@
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahAlammm&theme=github_dark">
 </p>
 
-## :chart_with_upwards_language: Language
+## :chart_with_upwards_trend: Language
 
 <br/>
 <p>
