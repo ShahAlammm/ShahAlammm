@@ -41,11 +41,16 @@
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/Bootsrap.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
 </p>
+<br/>
+
+
+## :computer: Technology which I learn
+
 <p align="center">
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/node.png"/>
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/express.png"/>
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/mongo.png"/>
-</p><br/>
+</p>
 
 <!-- ## :eyes: Current overview
 
