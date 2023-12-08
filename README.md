@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
 </a>
 
-## :snake: Current Stats
+## :chart_with_upwards_trend: Current Stats
 
 <br />
 <p align="center">
@@ -11,7 +11,7 @@
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahAlammm&theme=github_dark">
 </p>
 
-## :chart_with_upwards_trend: Language
+## :snake: Language
 
 <br/>
 <p>
