@@ -37,7 +37,7 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p><br/>
 
-## :eyes: Current overview
+<!-- ## :eyes: Current overview
 
 <div align="left">
 <a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
@@ -51,6 +51,6 @@
 
 ### 🤔 I’m trying - To help people learn web development.
 
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages. -->
 
 <br />
