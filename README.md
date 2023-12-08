@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com">
-<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/live_img.gif" />
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/git_banner.gif" />
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
@@ -27,7 +27,7 @@
 
 <br />
 
-## :computer: Technologies that I know
+## :computer: Technology that I know
 
 <br>
 <p align="center">
@@ -47,6 +47,7 @@
 ## :computer: Technology which I learning
 
 <p align="center">
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/Next.png"/>
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/node.png"/>
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/express.png"/>
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/mongo.png"/>
