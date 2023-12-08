@@ -47,7 +47,7 @@
 ## :computer: Technology which I learning
 
 <p align="center">
-<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/Next.png"/>
+<img height="75" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/Next.png"/>
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/node.png"/>
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/express.png"/>
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/mongo.png"/>
