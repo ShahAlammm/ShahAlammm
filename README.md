@@ -15,7 +15,7 @@
 
 <br/>
 <p>
-<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahAlammm&theme=github_dark&exclude=java" />
+<img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahAlammm&theme=github_dark&exclude=java" />
 </p>
 
 ## :mailbox: Reach me out
@@ -32,13 +32,13 @@
 <br>
 <p align="center">
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/ShahAlammm/ShahAlammm//blob/main/images/icons/css.png"/>
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/css.png"/>
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/JavaScript.png"/>
 </p>
 <p align="center">
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/react.png"/>
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/icons/Bootsrap.png"/>
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/Bootsrap.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
 </p>
 <p align="center">
