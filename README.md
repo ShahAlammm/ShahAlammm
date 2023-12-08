@@ -44,7 +44,7 @@
 <br/>
 
 
-## :computer: Technology which I learn
+## :computer: Technology which I learning
 
 <p align="center">
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/node.png"/>
