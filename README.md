@@ -2,7 +2,8 @@
 <img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
 </a>
 
-## :chart_with_upwards_trend: Current Stats
+## :file_folder: Current Stats
+<!-- ## :chart_with_upwards_trend: Current Stats -->
 
 <br />
 <p align="center">
