@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com">
-<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/live_img.gif" />
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
@@ -22,7 +22,7 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/linkedin.gif">](https://www.linkedin.com)[<img height="75" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/face.gif">](https://www.facebook.com)
+[<p align="center"><img height="175" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/linkedin.gif">](https://www.linkedin.com)[<img height="175" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/face.gif">](https://www.facebook.com)
 
 
 <br />
