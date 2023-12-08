@@ -13,7 +13,7 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com)
+[<p align="center"><img height="75" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com)[<img height="75" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/Facebook.png">](https://www.facebook.com)[<img height="75" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com)
 
 <br />
 
@@ -21,20 +21,20 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/ShahAlammm/ShahAlammm//blob/main/images/icons/css.png"/>
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/JavaScript.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/react.png"/>
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/tailwind.png"/>
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/icons/Bootsrap.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/node.png"/>
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/express.png"/>
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/mongo.png"/>
 </p><br/>
 
 <!-- ## :eyes: Current overview
