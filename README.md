@@ -1,6 +1,6 @@
 ### Hello !
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShahAlammm&theme=react&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShahAlammm&theme=monokai&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **ShahAlammm/ShahAlammm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
