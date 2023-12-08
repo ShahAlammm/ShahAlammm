@@ -11,12 +11,11 @@
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahAlammm&theme=github_dark">
 </p>
 
-## :wrench: Language
-<!-- ## :javascript: Language -->
+## :memo: Language
 
 <br/>
 <p>
-<img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahAlammm&theme=github_dark&exclude=java" />
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahAlammm&theme=github_dark&exclude=java" />
 </p>
 
 ## :mailbox: Reach me out
