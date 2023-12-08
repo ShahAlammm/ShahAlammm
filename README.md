@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com">
-<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/git_banner.gif" />
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/bann2.gif" />
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
