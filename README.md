@@ -3,9 +3,11 @@
 </a>
 
 <p align="center">
+<b>
 
 # Hi ! I'm SHAH ALAM
 
+</b>
 </p>
 
 ## :chart_with_upwards_trend: Current Stats
