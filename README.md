@@ -23,11 +23,9 @@
 ## :mailbox: Reach me out
 
 <br />
-<p align="center">
 
-[<img height="100" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/linkedin.gif">](https://www.linkedin.com/in/shah-alam1312)[<img height="100" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/face.gif">](https://www.facebook.com/shahalam1312)
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
 
-</p>
 <br />
 
 ## :computer: Technology that I know
