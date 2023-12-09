@@ -24,7 +24,7 @@
 
 <br />
 
-[<p align="center">[<img height="100" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/linkedin.gif">](https://www.linkedin.com/in/shah-alam1312)[<img height="100" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/face.gif">]</p>](https://www.facebook.com/shahalam1312)
+[<img height="100" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/linkedin.gif">](https://www.linkedin.com/in/shah-alam1312)[<img height="100" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/face.gif">](https://www.facebook.com/shahalam1312)
 
 <br />
 
