@@ -67,7 +67,7 @@
 <a href=""><img align="right" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/liv-git.gif" width="200" alt="shah alam Dev Card"/></a>
 </div>
 
-### 🔭 I’m working - Job search.
+### 🔭 I’m working - For Job searching.
 
 ### 🌱 I’m learning - Node.js .
 
