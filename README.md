@@ -4,6 +4,8 @@
 
 <h1 align="center">Hi! I'm SHAH ALAM</h1>
 
+<h2 align="center">Front-End Developer</h2>
+
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
