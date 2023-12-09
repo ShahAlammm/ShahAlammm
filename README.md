@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi ! I'm SHAH ALAM</h1>
 
-<h2 align="center"  style="color: purple;">Work as a Front-End Developer</h2>
+<h2 align="center"><code style="color : red"> Work as a Front-End Developer</code></h2>
 
 ## :chart_with_upwards_trend: Current Stats
 
