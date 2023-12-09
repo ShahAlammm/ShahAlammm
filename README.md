@@ -22,7 +22,7 @@
 
 <br />
 
-[<p align="center"><img height="175" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/linkedin.gif">](https://www.linkedin.com)[<img height="175" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/face.gif">](https://www.facebook.com)
+[<p align="center"><img height="100" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/linkedin.gif">](https://www.linkedin.com)[<img height="100" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/face.gif">](https://www.facebook.com)
 
 
 <br />
