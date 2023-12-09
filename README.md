@@ -3,7 +3,7 @@
 </a>
 
 
-<p align="center">
+<p text-align="center">
 
 # Hi !  I'm  SHAH ALAM
 
