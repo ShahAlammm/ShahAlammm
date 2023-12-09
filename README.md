@@ -25,17 +25,13 @@
 <br />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mirhussainmurtaza/">
-    <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/saha-alam1312/">
+    <img height="75" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/linkedin.gif" alt="LinkedIn">
   </a>
-  <a href="https://www.facebook.com/mirhussainmurtaza">
-    <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png" alt="Facebook">
-  </a>
-  <a href="https://twitter.com/_mir_hussain_">
-    <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png" alt="Twitter">
+  <a href="https://www.facebook.com/shahalam1312">
+    <img height="75" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/face.gif" alt="Facebook">
   </a>
 </p>
-
 
 <br />
 
