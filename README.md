@@ -61,20 +61,20 @@
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/mongo.png"/>
 </p>
 
-<!-- ## :eyes: Current overview
+## :eyes: Current overview
 
 <div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
+<a href=""><img align="right" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/liv-git.gif" width="200" alt="shah alam Dev Card"/></a>
 </div>
 
-### 🔭 I’m working - In Programming Hero.
+### 🔭 I’m working - Job search.
 
-### 🌱 I’m exploring - Advance motion graphics for web.
+### 🌱 I’m learning - Node.js .
 
 ### 👯 I’m looking - To collaborate on open source projects.
 
-### 🤔 I’m trying - To help people learn web development.
+### 🤔 I’m trying - To help people by web development.
 
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages. -->
+### ⚡ Fun fact - I love to enjoy movies.
 
 <br />
