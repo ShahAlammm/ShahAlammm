@@ -25,7 +25,7 @@
 <br />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saha-alam1312/">
+  <a href="https://www.linkedin.com/in/shah-alam1312">
     <img height="100" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/linkedin.gif" alt="LinkedIn">
   </a>
   <a href="https://www.facebook.com/shahalam1312">
