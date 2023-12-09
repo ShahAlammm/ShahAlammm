@@ -26,10 +26,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saha-alam1312/">
-    <img height="75" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/linkedin.gif" alt="LinkedIn">
+    <img height="100" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/linkedin.gif" alt="LinkedIn">
   </a>
   <a href="https://www.facebook.com/shahalam1312">
-    <img height="75" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/face.gif" alt="Facebook">
+    <img height="100" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/face.gif" alt="Facebook">
   </a>
 </p>
 
