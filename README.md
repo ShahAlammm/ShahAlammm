@@ -19,7 +19,10 @@
 
 <br/>
 <p align="center">
-<img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahAlammm&theme=github_dark" />
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahAlammm&theme=github_dark" />
+<img  src="http://http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahAlammm&theme=default" />
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahAlammm&theme=github_dark" />
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahAlammm&theme=github_dark" />
 </p>
 
 ## :mailbox: Reach me out
