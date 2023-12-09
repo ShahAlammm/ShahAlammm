@@ -2,10 +2,9 @@
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/bann2.gif" />
 </a>
 
-
 <p align="center">
 
-# Hi !  I'm  SHAH ALAM
+# Hi ! I'm SHAH ALAM
 
 </p>
 
@@ -31,7 +30,6 @@
 
 [<p align="center"><img height="100" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/linkedin.gif">](https://www.linkedin.com)[<img height="100" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/face.gif">](https://www.facebook.com/shahalam1312)
 
-
 <br />
 
 ## :computer: Technology that I know
@@ -49,16 +47,18 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
 </p>
 <br/>
-
+<p align="center">
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/node.png"/>
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/express.png"/>
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/mongo.png"/>
+</p>
+<br/>
 
 ## :computer: Technology which I learning
 
 <p align="center">
 <img height="175" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/Next.png"/>
-<br/>
-<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/node.png"/>
-<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/express.png"/>
-<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/mongo.png"/>
+
 </p>
 
 ## :eyes: Current overview
