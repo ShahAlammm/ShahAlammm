@@ -2,7 +2,7 @@
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/live_img.gif" />
 </a>
 
-<h1 align="center">Hi! I'm SHAH ALAM</h1>
+<h1 align="center">Hi ! I'm SHAH ALAM</h1>
 
 <h2 align="center">Front-End Developer</h2>
 
