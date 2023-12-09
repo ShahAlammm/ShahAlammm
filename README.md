@@ -2,6 +2,13 @@
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/bann2.gif" />
 </a>
 
+
+<p align="center">
+
+# Hi !  I'm  SHAH ALAM
+
+</p>
+
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
