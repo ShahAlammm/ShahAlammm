@@ -21,7 +21,6 @@
 <p align="center">
 <img width='48%' src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahAlammm&theme=github_dark" />
 <img width='48%' src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahAlammm&theme=bear" />
-<img width='100%' src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahAlammm&theme=bear&utcOffset=8" />
 </p>
 
 ## :mailbox: Reach me out
