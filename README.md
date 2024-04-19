@@ -63,8 +63,8 @@
 ## :computer: Technology which I learning
 
 <p align="center">
-<img height="100" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/Next.png"/>
-<img height="80" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/redux.png"/>
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/Next.png"/>
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/redux.png"/>
 </p>
 
 ## :eyes: Current overview
