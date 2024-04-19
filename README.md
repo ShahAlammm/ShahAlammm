@@ -64,7 +64,7 @@
 
 <p align="center">
 <img  height="150" width='200' src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/Next.png"/>
-<img  height="150" width='150' src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/redux.png"/>
+<img  height="100" width='100' src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/redux.png"/>
 </p>
 
 ## :eyes: Current overview
