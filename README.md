@@ -63,7 +63,7 @@
 ## :computer: Technology which I learning
 
 <p align="center">
-<img height="100" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/Next.png"/>
+<img height="150" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/Next.png"/>
 <img height="100" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/redux.png"/>
 </p>
 
