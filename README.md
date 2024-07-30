@@ -1,6 +1,6 @@
 <a href="https://www.facebook.com">
 <!-- <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/Blue%20%26%20Yellow%20Gradient%20Personal%20LinkedIn%20Banner.png" /> -->
-<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/Hello World.gif" />
+<img heigth="60%" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/Hello World.gif" />
 </a>
 
 <h1 align="center">Hi ! I'm SHAH ALAM</h1>
@@ -20,7 +20,7 @@
 
 <br/>
 <p align="center">
-<img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahAlammm&theme=github_dark" />
+<img width="60%"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahAlammm&theme=github_dark" />
 
 </p>
 
