@@ -46,9 +46,9 @@
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/css.png"/>
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/JavaScript.png"/>
 <img  height="60" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/typescript.png"/>
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/tailwind.png"/>
 <img  height="60" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/NEXTJS.png"/>
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/react.png"/>
-<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/tailwind.png"/>
 </p>
 
 <p align="center">
