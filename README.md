@@ -46,7 +46,7 @@
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/css.png"/>
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/JavaScript.png"/>
 <img  height="60" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/typescript.png"/>
-<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/NEXTJS.png"/>
+<img  height="60" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/NEXTJS.png"/>
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/react.png"/>
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/tailwind.png"/>
 </p>
@@ -57,7 +57,7 @@
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/node.png"/>
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/express.png"/>
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/mongo.png"/>
-<img  height="60" weight="60" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/mongose.png"/>
+<img  height="60" weight="80" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/mongose.png"/>
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/redux.png"/>
 </p>
 <br/>
