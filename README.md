@@ -19,7 +19,7 @@
 
 <br/>
 <p align="center">
-<img width='98%' src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahAlammm&theme=github_dark" />
+<img height="60%" width='98%' src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahAlammm&theme=github_dark" />
 
 </p>
 
