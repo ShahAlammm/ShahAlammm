@@ -45,7 +45,7 @@
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/css.png"/>
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/Next.png"/>
 </p>
 <p align="center">
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/react.png"/>
@@ -58,7 +58,7 @@
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/node.png"/>
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/express.png"/>
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/mongo.png"/>
-<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/mongo.png"/>
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/redux.png"/>
 </p>
 <br/>
 
