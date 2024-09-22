@@ -79,7 +79,7 @@
 
 ### 🔭 I’m a Web Developer.
 
-### 🌱 I’m learning - Node.js .
+### 🌱 I’m learning - New Technology .
 
 ### 👯 I’m looking - To collaborate on open source projects.
 
